@@ -1,0 +1,9 @@
+{
+    "heroData": {
+        "bgImgLink": "/images/background/hero-bg.jpg",
+        "imgLink": "/images/section/hero-img.jpg",
+        "title": "Mikey <br /> Sharma",
+        "subTitle": "Hello, I'm",
+        "designation": "Full-Stack Developer"
+    }
+}
