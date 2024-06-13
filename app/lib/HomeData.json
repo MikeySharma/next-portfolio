@@ -1,9 +1,68 @@
 {
     "heroData": {
-        "bgImgLink": "/images/background/hero-bg.jpg",
-        "imgLink": "/images/section/hero-img.jpg",
+        "bgImgLink": "/backgrounds/hero-bg.jpg",
+        "imgLink": "/images/hero.jpg",
         "title": "Mikey <br /> Sharma",
         "subTitle": "Hello, I'm",
         "designation": "Full-Stack Developer"
+    },
+    "socialData": [
+        {
+            "icon": "dribbble",
+            "title": "Dribbble",
+            "link": "/"
+        },
+        {
+            "icon": "behance",
+            "title": "Behance",
+            "link": "/"
+        },
+        {
+            "icon": "twitter",
+            "title": "Twitter",
+            "link": "/"
+        },
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "link": "/"
+        }
+    ],
+    "aboutData": {
+        "imgLink": "/images/hero-img.jpg",
+        "cvPdf": "/images/Resume.pdf",
+        "title": "Hi There! I'm Edward Davis",
+        "subtitle": "Visual Designer",
+        "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+        "details": [
+            {
+                "title": "Birthday",
+                "info": "May 07, 1990"
+            },
+            {
+                "title": "Phone",
+                "info": "+1 876-369-9009"
+            },
+            {
+                "title": "Email",
+                "info": "devis@example.com"
+            },
+            {
+                "title": "From",
+                "info": "2661 Hich meadow lane bear creek"
+            },
+            {
+                "title": "Language",
+                "info": "English, Germanic"
+            },
+            {
+                "title": "Freelance",
+                "info": "Available"
+            },
+            {
+                "title": "Freelance",
+                "info": "Available"
+            }
+        ]
     }
 }

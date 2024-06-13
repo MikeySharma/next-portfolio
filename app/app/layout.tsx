@@ -2,6 +2,10 @@
 import { useEffect, useState } from "react";
 import PreLoader from "../ui/PreLoader/PreLoader";
 import CustomPointer from "../ui/CustomPointer/CustomPointer";
+import Header from "../ui/Header/Header";
+import Footer from "../ui/Footer/Footer";
+import Aos  from "aos";
+import 'aos/dist/aos.css';
 
 const Layout = ({ children }:
     Readonly<{
@@ -10,6 +14,7 @@ const Layout = ({ children }:
     const [isLoader, setIsLoader] = useState(true);
 
     useEffect(() => {
+        Aos.init({once: true});
         setTimeout(() => {
             setIsLoader(false)
         }, 1000)
@@ -22,7 +27,9 @@ const Layout = ({ children }:
                     :
                     (<div>
                         <CustomPointer />
+                        <Header />
                         {children}
+                        <Footer />
                     </div>)
             }
         </>

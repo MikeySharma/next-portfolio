@@ -1,9 +1,10 @@
+@import "/app/scss/default/variable";
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 body,html{
     color: $base-color2;
-    background-color: $base-color3;
+    background-color: $dark-color3;
     font-family: "Inter", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -13,7 +14,7 @@ body,html{
 
 h1, h2, h3, h4, h5, h6{
     clear: both;
-    color: $base-color-3;
+    color: $base-color3;
     padding: 0;
     margin: 0 0 10px 0;
     font-weight: 700;
