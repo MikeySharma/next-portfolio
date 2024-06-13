@@ -31,29 +31,29 @@
     "aboutData": {
         "imgLink": "/images/hero-img.jpg",
         "cvPdf": "/images/Resume.pdf",
-        "title": "Hi There! I'm Edward Davis",
-        "subtitle": "Visual Designer",
-        "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+        "title": "Hi There! I'm Mikey Sharma",
+        "subtitle": "Full-Stack Developer",
+        "text": "I am a passionate Full-Stack Developer (MERN Stack Developer) with a strong foundation in HTML, CSS, and JavaScript. My expertise spans across various modern web development technologies and practices, allowing me to build scalable, efficient, and user-friendly applications.",
         "details": [
             {
                 "title": "Birthday",
-                "info": "May 07, 1990"
+                "info": "June 03, 2005"
             },
             {
                 "title": "Phone",
-                "info": "+1 876-369-9009"
+                "info": "+977 9825850687"
             },
             {
                 "title": "Email",
-                "info": "devis@example.com"
+                "info": "mikeysharma99@gmail.com"
             },
             {
                 "title": "From",
-                "info": "2661 Hich meadow lane bear creek"
+                "info": "Janakpur, Nepal"
             },
             {
                 "title": "Language",
-                "info": "English, Germanic"
+                "info": "English, Nepali"
             },
             {
                 "title": "Freelance",
