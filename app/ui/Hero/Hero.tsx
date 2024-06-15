@@ -26,7 +26,7 @@ const Hero = ({ data, socialData }: any) => {
             <div className="st-height-b80 st-height-lg-b80"></div>
             <div className="st-hero st-style1 st-bg"
                 style={{ backgroundImage: `url(${bgImgLink})` }}>
-                <div className="container">
+                <div className="container px-4 mx-auto">
                     <div className="st-hero-text">
                         <h3 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                             {subTitle}
@@ -45,7 +45,7 @@ const Hero = ({ data, socialData }: any) => {
                     </div>
                 </div>
             </div>
-            <div className="st-hero-img st-to-right">
+            <div className="st-hero-img st-to-right" data-aos="fade-right" data-aos-duration="800" data-aos-delay="200">
                 <Image src={`${imgLink}`} alt="Hero" style={{filter : "drop-shadow(2px 4px 6px black)"}} height="608" width="850" ></Image>
                 <div className="st-social-group">
                     <SocialLinks data={socialData} />

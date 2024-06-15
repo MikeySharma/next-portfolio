@@ -14,11 +14,11 @@ const Header = () => {
     return (
         <header className="st-site-header st-style1 st-sticky-header">
             <div className="st-main-header">
-                <div className="container mx-auto">
+                <div className="container mx-auto px-4">
                     <div className="st-main-header-in">
                         <div className="st-main-header-left">
                             <Link className="st-site-branding" href="/" id="hero">
-                                <Image src="/images/logo.png" alt="Mikey" height={190} width={190} title="Mikey" />
+                                <Image src="/images/logo.png" alt="Mikey" height={190} width={190} priority title="Mikey" />
                             </Link>
                         </div>
                         <div className="st-main-header-right">

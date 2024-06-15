@@ -25,12 +25,12 @@ const Layout = ({ children }:
                 isLoader ?
                     <PreLoader />
                     :
-                    (<div>
+                    (<>
                         <CustomPointer />
                         <Header />
                         {children}
                         <Footer />
-                    </div>)
+                    </>)
             }
         </>
     )

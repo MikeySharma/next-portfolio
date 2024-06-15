@@ -8,7 +8,7 @@ const About = ({ data }: { data: AboutData }) => {
         <section id="about" className='st-about-wrap'>
             <div className="st-height-b100 st-height-lg-b80"></div>
             <SectionHeading title='About Me' />
-            <div className="container">
+            <div className="container mx-auto px-4">
                 <div className="flex flex-wrap -mx-4">
                     <div className="w-full lg:w-1/2 px-4">
                         <div className="st-about-img-wrap">
@@ -17,7 +17,7 @@ const About = ({ data }: { data: AboutData }) => {
                         <div className="st-height-b0 st-height-lg-b30"></div>
                     </div>
                     <div className="w-full lg:w-1/2 px-4">
-                        <div className="st-vertical-middle">
+                        <div className="st-vertical-middle" data-aos="fade-left" data-aos-duration="500" data-aos-delay="200">
                             <div className="st-vertical-middle-in">
                                 <div className="st-text-block st-style1" data-aos-duration="1000" data-aos-delay="500">
                                     <h2 className='st-text-block-title'>{title}</h2>
