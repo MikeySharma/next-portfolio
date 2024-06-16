@@ -83,35 +83,6 @@ export interface ModalData {
     modalClose: any,
     open: boolean,
 }
-
-export interface ReviewData {
-    useFor: string,
-    sliderSetting: {
-        infinite: boolean,
-        speed: number,
-        slidesToShow: number,
-        slidesToScroll: number,
-        arrows: boolean,
-        responsive: ReviewResponsiveData[],
-    }
-    informations: ReviewInformationsData[],
-}
-
-export interface ReviewResponsiveData {
-    breakpoint: number,
-    settings: {
-        slidesToShow: number,
-        autoplay: boolean,
-    }
-}
-
-export interface ReviewInformationsData {
-    imgLink: string,
-    designation: string,
-    title: string,
-    text: string,
-}
-
 export interface BlogData {
     useFor: string,
     sliderSetting: {
@@ -126,7 +97,7 @@ export interface BlogData {
 }
 
 export interface BlogResponsiveData {
-    breakPoint: number,
+    breakpoint: number,
     settings: {
         slidesToShow: number,
         autoplay: boolean,
@@ -136,7 +107,22 @@ export interface BlogResponsiveData {
 export interface BlogInformationsData {
     imgLink: string,
     designation: string,
-    date: string,
+    date?: string,
     title: string,
-    href: string
+    href?: string,
+    text?: string
+}
+
+export interface ContactData {
+    formTitle: string,
+    title: string,
+    subTitle: string,
+    text: string
+}
+
+
+export interface SocialData {
+    icon: string,
+    title: string,
+    link: string,
 }

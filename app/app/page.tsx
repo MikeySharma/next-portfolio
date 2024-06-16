@@ -7,9 +7,11 @@ import Skills from '../ui/Skills/Skills';
 import ResumeSection from '../ui/Resume/ResumeSection';
 import PortfolioSection from '../ui/Portfolio/PortfolioSection';
 import ReviewSection from '../ui/Review/ReviewSection';
+import BlogSection from '../ui/Blog/BlogSection';
+import Contact from '../ui/Contact/Contact';
 
 const Page = () => {
-  const { heroData, socialData, aboutData, serviceData, skillData, resumeData, portfolioData, reviewData } = data;
+  const { heroData, socialData, aboutData, serviceData, skillData, resumeData, portfolioData, reviewData, blogData, contactData } = data;
   return (
     <>
       <Hero data={heroData} socialData={socialData} data-aos="fade-right" />
@@ -19,6 +21,8 @@ const Page = () => {
       <ResumeSection data={resumeData} data-aos="fade-right" />
       <PortfolioSection data={portfolioData} data-aos="fade-right" />
       <ReviewSection data={reviewData} data-aos="fade-right" />
+      <BlogSection data={blogData} data-aos="fade-right" />
+      <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
     </>
   )
 }

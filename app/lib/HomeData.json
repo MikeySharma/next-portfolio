@@ -553,5 +553,11 @@
                 "href": "/blog/blog-details"
             }
         ]
+    },
+    "contactData": {
+        "formTitle": "Just say Hello",
+        "title": "Contact Info",
+        "subTitle": "Visite my social profile and get connected",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
     }
 }
