@@ -10,7 +10,7 @@ const IconBox = ({ data }: { data: ServiceData }) => {
             <div className="st-height-b100 st-height-lg-b80"></div>
             <SectionHeading title="Service" />
             <div className="container mx-auto">
-                <div className="grid lg:grid-cols-3 md:grid-cols-1 gap-4 mx-12">
+                <div className="grid lg:grid-cols-3 md:grid-cols-1 gap-4 md:mx-12 mx-4">
                     {
                         services.map((element: Services, index: number) => (
                             <div className="lg:col-span-1 md:col-span-1 mx-4" key={index} data-aos={element.effect ? element.effect : 'zoom-out-up'} data-aos-duration={element.duration ? element.duration : "800"} data-aos-delay={element.delay ? element.delay : "200"}>

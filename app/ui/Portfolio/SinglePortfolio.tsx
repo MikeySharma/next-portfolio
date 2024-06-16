@@ -5,7 +5,7 @@ import Image from "next/image";
 const SinglePortfolio = ({ data, getData }: { data: PortfolioItems, getData: Function }) => {
     const { imgLink, imgLinkLg, title, subTitle, effect, duration, delay } = data;
     return (
-        <div className="lg:col-span-6 col-span-12"
+        <div className="lg:col-span-4 col-span-12"
             data-aos={effect}
             data-aos-duration={duration}
             data-aos-delay={delay}>

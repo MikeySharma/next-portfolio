@@ -9,9 +9,9 @@ const ReviewSection = ({ data }: { data: BlogData }) => {
       <div className="st-height-b100 st-height-lg-b80"></div>
       <SectionHeading title="Review" />
       <div className="container mx-auto px-4"
-        data-aos="fade-right"
+        data-aos="fade-up"
         data-aos-duration="800"
-        data-aos-delay="50">
+        data-aos-delay="0">
         <Carousel data={data} />
       </div>
       <div className="st-height-b100 st-height-lg-b80"></div>

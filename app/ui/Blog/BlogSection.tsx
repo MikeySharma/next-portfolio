@@ -14,7 +14,8 @@ const BlogSection = ({ data }: { data: BlogData }) => {
                 data-aos-delay="100">
                 <Carousel data={data} />
             </div>
-            <div className="st-height-b95 st-height-lg-b75"></div>
+            <div className="st-height-b100 st-height-b80"></div>
+
         </section>
     )
 }

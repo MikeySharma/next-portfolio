@@ -73,7 +73,7 @@
                 "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
                 "effect": "zoom-out-up",
                 "duration": "500",
-                "delay": "200"
+                "delay": "0"
             },
             {
                 "imgLink": "/icon/icon2.png",
@@ -81,7 +81,7 @@
                 "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
                 "effect": "zoom-out-up",
                 "duration": "500",
-                "delay": "300"
+                "delay": "0"
             },
             {
                 "imgLink": "/icon/icon3.png",
@@ -89,7 +89,7 @@
                 "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
                 "effect": "zoom-out-up",
                 "duration": "500",
-                "delay": "400"
+                "delay": "0"
             },
             {
                 "imgLink": "/icon/icon4.png",
@@ -97,7 +97,7 @@
                 "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
                 "effect": "zoom-out-up",
                 "duration": "500",
-                "delay": "500"
+                "delay": "0"
             },
             {
                 "imgLink": "/icon/icon5.png",
@@ -105,7 +105,7 @@
                 "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
                 "effect": "zoom-out-up",
                 "duration": "500",
-                "delay": "600"
+                "delay": "0"
             },
             {
                 "imgLink": "/icon/icon6.png",
@@ -113,7 +113,7 @@
                 "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
                 "effect": "zoom-out-up",
                 "duration": "500",
-                "delay": "700"
+                "delay": "0"
             }
         ]
     },
@@ -126,42 +126,42 @@
                 "progress": "95%",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "200"
+                "delay": "0"
             },
             {
                 "title": "Motion Graphic",
                 "progress": "75%",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "300"
+                "delay": "0"
             },
             {
                 "title": "Adobe XD",
                 "progress": "90%",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "400"
+                "delay": "0"
             },
             {
                 "title": "UX Design",
                 "progress": "85%",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "500"
+                "delay": "0"
             },
             {
                 "title": "HTML",
                 "progress": "80%",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "600"
+                "delay": "0"
             },
             {
                 "title": "Digital Marketing",
                 "progress": "90%",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "700"
+                "delay": "0"
             }
         ]
     },
@@ -174,7 +174,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "200"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio2.jpg",
@@ -183,7 +183,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "300"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio3.jpg",
@@ -192,7 +192,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "400"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio4.jpg",
@@ -201,7 +201,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "500"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio5.jpg",
@@ -210,7 +210,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "600"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio6.jpg",
@@ -219,7 +219,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "700"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio1.jpg",
@@ -228,7 +228,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "200"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio2.jpg",
@@ -237,7 +237,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "300"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio3.jpg",
@@ -246,7 +246,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "400"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio4.jpg",
@@ -255,7 +255,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "500"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio5.jpg",
@@ -264,7 +264,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "600"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio6.jpg",
@@ -273,7 +273,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "700"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio1.jpg",
@@ -282,7 +282,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "200"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio2.jpg",
@@ -291,7 +291,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "300"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio3.jpg",
@@ -300,7 +300,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "400"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio4.jpg",
@@ -309,7 +309,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "500"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio5.jpg",
@@ -318,7 +318,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "600"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio6.jpg",
@@ -327,7 +327,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "700"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio1.jpg",
@@ -336,7 +336,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "200"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio2.jpg",
@@ -345,7 +345,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "300"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio3.jpg",
@@ -354,7 +354,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "400"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio4.jpg",
@@ -363,7 +363,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "500"
+                "delay": "0"
             },
             {
                 "imgLink": "/portfolio/portfolio5.jpg",
@@ -372,7 +372,7 @@
                 "subTitle": "Design / Marketing",
                 "effect": "fade-up",
                 "duration": "500",
-                "delay": "600"
+                "delay": "0"
             }
         ]
     },

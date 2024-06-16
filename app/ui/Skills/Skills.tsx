@@ -10,7 +10,7 @@ const Skills = ({ data }: { data: SkillData }) => {
             <div className="st-height-b100 st-height-lg-b80"></div>
             <SectionHeading title='Skills' />
             <div className="container mx-auto">
-                <div className="px-12 gap-4 w-full grid md:grid-cols-2 lg:grid-cols-2 grid-cols-1">
+                <div className="md:px-12 px-4 gap-4 w-full grid md:grid-cols-2 lg:grid-cols-2 grid-cols-1">
                     <div className="col-span-1">
                         <div className="st-skill-wrap">
                             <div className="st-skill-heading"
