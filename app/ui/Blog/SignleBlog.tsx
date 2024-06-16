@@ -1,10 +1,10 @@
-import { BlogInformationsData, ReviewInformationsData } from "@/app/lib/definition";
+import { BlogInformationsData } from "@/app/lib/definition";
 import "./Blog.scss";
 import Link from "next/link";
 import Image from "next/image";
 
 const SignleBlog = ({ element }: { element: BlogInformationsData }) => {
-    const { imgLink, title, date, designation, href } = element;
+    const { imgLink, title, date, href } = element;
     return (
         <div className="st-post-single st-style1">
             <Link href={href} className="st-post-thumb st-zoom">

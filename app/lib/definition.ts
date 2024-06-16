@@ -109,7 +109,7 @@ export interface BlogInformationsData {
     designation: string,
     date?: string,
     title: string,
-    href?: string,
+    href: string,
     text?: string
 }
 
