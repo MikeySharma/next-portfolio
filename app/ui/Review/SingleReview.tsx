@@ -1,7 +1,7 @@
-import { ReviewInformationsData } from "@/app/lib/definition"
+import { BlogInformationsData } from "@/app/lib/definition"
 import Image from "next/image";
 
-const SingleReview = ({ element }: { element: ReviewInformationsData }) => {
+const SingleReview = ({ element }: { element: BlogInformationsData }) => {
     const { imgLink, title, designation, text } = element;
     return (
         <div className="st-testimonial st-style1"
