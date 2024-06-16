@@ -7,7 +7,7 @@ const SignleBlog = ({ element }: { element: BlogInformationsData }) => {
     const { imgLink, title, date, href } = element;
     return (
         <div className="st-post-single st-style1">
-            <Link href={href} className="st-post-thumb st-zoom">
+            <Link href={href ?? "#"} className="st-post-thumb st-zoom">
                 <Image src={imgLink} className="st-zoom-in" alt="blog" height={200} width={200} />
             </Link>
             <div className="st-post-info">
@@ -20,7 +20,7 @@ const SignleBlog = ({ element }: { element: BlogInformationsData }) => {
                     <span className="st-post-publish-date">{date}</span>
                 </div>
                 <h4 className="st-post-title">
-                    <Link href={href}>{title}</Link>
+                    <Link href={href ?? "#"}>{title}</Link>
                 </h4>
             </div>
         </div>
