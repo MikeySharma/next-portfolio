@@ -19,9 +19,9 @@ const Page = () => {
       <IconBox data={serviceData} data-aos="fade-right" />
       <Skills data={skillData} data-aos="fade-right" />
       <ResumeSection data={resumeData} data-aos="fade-right" />
-      <PortfolioSection data={portfolioData} data-aos="fade-right" />
+      {/* <PortfolioSection data={portfolioData} data-aos="fade-right" /> */}
       <ReviewSection data={reviewData} data-aos="fade-right" />
-      <BlogSection data={blogData} data-aos="fade-right" />
+      {/* <BlogSection data={blogData} data-aos="fade-right" /> */}
       <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
     </>
   )

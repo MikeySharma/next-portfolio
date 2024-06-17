@@ -91,9 +91,12 @@ export interface BlogData {
         slidesToShow: number,
         slidesToScroll: number,
         arrows: boolean,
-        responsive: BlogResponsiveData[],
+        responsive ?: BlogResponsiveData[],
     }
-    informations: BlogInformationsData[],
+    informations ?: BlogInformationsData[],
+    sliderImages ?: {
+        imgLink: string,
+    }[]
 }
 
 export interface BlogResponsiveData {
@@ -109,7 +112,7 @@ export interface BlogInformationsData {
     designation: string,
     date?: string,
     title: string,
-    href ?: string,
+    href?: string,
     text?: string
 }
 
@@ -125,4 +128,19 @@ export interface SocialData {
     icon: string,
     title: string,
     link: string,
+}
+
+export interface BlogDetailsData {
+    heroBg ?: string,
+    useFor: string,
+    sliderSetting: {
+        infinite: string,
+        speed: number,
+        slidesToShow: number,
+        dots: boolean,
+        arrows: boolean,
+    },
+    sliderImages?: {
+        imgLink: string,
+    }[]
 }
