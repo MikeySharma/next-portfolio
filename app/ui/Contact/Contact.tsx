@@ -36,7 +36,7 @@ const Contact = ({ data, socialData }: { data: ContactData, socialData: SocialDa
                                 <div className="st-single-info-details">
                                     <h4>Email</h4>
                                     <Link href="mailto:mikeysharma98@gmail.com">mikeysharma98@gmail.com</Link>
-                                    <Link href="mailto:support@mikeysharma.com">support@mikeysharma.com</Link>
+                                    <Link href="mailto:mikeysharma99@gmail.com">mikeysharma99@gmail.com</Link>
                                 </div>
                             </div>
                             <div className="st-single-contact-info">
@@ -46,7 +46,6 @@ const Contact = ({ data, socialData }: { data: ContactData, socialData: SocialDa
                                 <div className="st-single-info-details">
                                     <h4>Phone</h4>
                                     <span>+977 9825850687</span>
-                                    <span>+977 98258506687</span>
                                 </div>
                             </div>
                             <div className="st-single-contact-info">

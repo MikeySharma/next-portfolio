@@ -8,24 +8,24 @@
     },
     "socialData": [
         {
-            "icon": "dribbble",
-            "title": "Dribbble",
-            "link": "/"
+            "icon": "fa6-brands:github",
+            "title": "GitHub",
+            "link": "https://github.com/MikeySharma"
         },
         {
-            "icon": "behance",
-            "title": "Behance",
-            "link": "/"
+            "icon": "ic:outline-email",
+            "title": "Email",
+            "link": "mailto:mikeysharma99@gmail.com"
         },
         {
-            "icon": "twitter",
+            "icon": "fa6-brands:twitter",
             "title": "Twitter",
-            "link": "/"
+            "link": "https://x.com/Mikey__Sharma?t=4_ppnOBEbvAjW19IuqIp5Q&s=09"
         },
         {
-            "icon": "linkedin",
+            "icon": "fa6-brands:linkedin",
             "title": "LinkedIn",
-            "link": "/"
+            "link": "http://www.linkedin.com/in/mikey-sharma"
         }
     ],
     "aboutData": {
@@ -69,48 +69,48 @@
         "services": [
             {
                 "imgLink": "/icon/icon1.png",
-                "title": "Sketches",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Frontend Development",
+                "text": "Dynamic interfaces with React, Next.js, and Vue for an engaging user experience.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
                 "imgLink": "/icon/icon2.png",
-                "title": "UI/UX Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Backend Development",
+                "text": "Robust server-side applications with Node.js and Express.js, and efficient APIs.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
                 "imgLink": "/icon/icon3.png",
-                "title": "Product Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Custom Animations",
+                "text": "Engaging animations using GSAP, Framer Motion and so on and responsive designs with TailwindCSS.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
                 "imgLink": "/icon/icon4.png",
-                "title": "App Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-                "effect": "zoom-out-up",
-                "duration": "500",
-                "delay": "0"
-            },
-            {
-                "imgLink": "/icon/icon5.png",
-                "title": "Motion Graphics",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "CI/CD Integration",
+                "text": "Automated deployment with CI/CD pipelines for efficient and error-free releases.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
                 "imgLink": "/icon/icon6.png",
-                "title": "Responsive Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Responsive Web Design",
+                "text": "Responsive designs using CSS frameworks for optimal viewing on all devices.",
+                "effect": "zoom-out-up",
+                "duration": "500",
+                "delay": "0"
+            },
+            {
+                "imgLink": "/icon/icon5.png",
+                "title": "Database Management",
+                "text": "Efficient data handling with MongoDB, PostgreSQL, and MySQL.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "0"
@@ -118,47 +118,47 @@
         ]
     },
     "skillData": {
-        "title": "All the skills that I have in that field of work are mentioned.",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+        "title": "Comprehensive Web Development Expertise",
+        "text": "Specializing in both frontend and backend development, I excel in creating dynamic user interfaces with React.js, Next.js, and Vue 3, and building scalable server-side applications with Node.js and Express.js. Proficient in JavaScript, TypeScript, HTML, and CSS. Experienced with MongoDB, PostgreSQL, MySQL, and Git. Skilled in responsive design, CI/CD integration, custom animations, API development, and server management.",
         "skills": [
             {
-                "title": "Photoshop",
+                "title": "Javascript",
                 "progress": "95%",
                 "effect": "fade-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
-                "title": "Motion Graphic",
-                "progress": "75%",
-                "effect": "fade-up",
-                "duration": "500",
-                "delay": "0"
-            },
-            {
-                "title": "Adobe XD",
-                "progress": "90%",
-                "effect": "fade-up",
-                "duration": "500",
-                "delay": "0"
-            },
-            {
-                "title": "UX Design",
+                "title": "React.js",
                 "progress": "85%",
                 "effect": "fade-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
-                "title": "HTML",
+                "title": "Node.js | Express.js",
+                "progress": "90%",
+                "effect": "fade-up",
+                "duration": "500",
+                "delay": "0"
+            },
+            {
+                "title": "MongoDB | MySQL | PostgreSQL",
+                "progress": "85%",
+                "effect": "fade-up",
+                "duration": "500",
+                "delay": "0"
+            },
+            {
+                "title": "TypeScript",
                 "progress": "80%",
                 "effect": "fade-up",
                 "duration": "500",
                 "delay": "0"
             },
             {
-                "title": "Digital Marketing",
-                "progress": "90%",
+                "title": "Server Management (Ubuntu Nginx)",
+                "progress": "75%",
                 "effect": "fade-up",
                 "duration": "500",
                 "delay": "0"
@@ -380,43 +380,19 @@
         "experienceTitle": "Experience",
         "experience": [
             {
-                "title": "Senior UX/UI Designer",
-                "duration": "Jan 2020 - Present",
-                "subTitle": "Bergnaum, Hills and Howe",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-            },
-            {
-                "title": "Product Designer",
-                "duration": "Jan 2016 - December 2019",
-                "subTitle": "Langosh, Sipes and Raynor",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-            },
-            {
-                "title": "Full-Stack Developer",
-                "duration": "November 2023 - May 2024",
-                "subTitle": "Next.js, Vue.js, Node.js, Mongodb",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+                "title": "Software Engineer (SE)",
+                "duration": "Nov 2023 - May 2024",
+                "subTitle": "Otto Van Koppen | Spain | Remote Work",
+                "text": "Worked remotely as a Software Engineer at Otto Van Koppen, Spain, from November 2023 to May 2024. Developed responsive web applications, enhanced user interfaces with React.js and Next.js, and built robust server-side applications using Node.js and Express.js. Deployed applications on Ubuntu Nginx servers, integrated CI/CD pipelines, and set up mail servers from scratch."
             }
         ],
         "educationTitle": "Education",
         "education": [
             {
-                "title": "Master of Computer Science",
-                "duration": "2015 - 2016",
-                "subTitle": "University of XYZ",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-            },
-            {
-                "title": "Bachelor of Computer Science",
-                "duration": "2010 - 2014",
-                "subTitle": "University of ABC",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-            },
-            {
-                "title": "Diploma in Computer Science",
-                "duration": "2006 - 2010",
-                "subTitle": "XYZ Institution",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+                "title": "Higher Secondary Education | Computer Science",
+                "duration": "2023 - present",
+                "subTitle": "Dhanusha Science Campus",
+                "text": "Currently pursuing higher secondary education at Dhanusha Science Campus, focusing on academic growth and preparing for future career opportunities."
             }
         ]
     },
@@ -448,39 +424,15 @@
         "informations": [
             {
                 "imgLink": "/client/client1.png",
-                "title": "Richard Miles",
-                "designation": "Chairman",
-                "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+                "title": "Otto Van Koppen",
+                "designation": "Owner",
+                "text": "Mikey started as a frontend developer and quickly excelled in API creation, backend development, VPS management, CI/CD deployment, and mail server setup."
             },
             {
-                "imgLink": "/client/client2.png",
-                "title": "Vesta Shufelt",
-                "designation": "Executive Director",
-                "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-            },
-            {
-                "imgLink": "/client/client3.png",
-                "title": "Joseph Alves",
-                "designation": "Managing Director",
-                "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-            },
-            {
-                "imgLink": "/client/client1.png",
-                "title": "Richard Miles",
-                "designation": "Chairman",
-                "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-            },
-            {
-                "imgLink": "/client/client2.png",
-                "title": "Vesta Shufelt",
-                "designation": "Executive Director",
-                "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-            },
-            {
-                "imgLink": "/client/client3.png",
-                "title": "Joseph Alves",
-                "designation": "Managing Director",
-                "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+                "imgLink": "/client/client2.webp",
+                "title": "Jyoti Prasad Tripathy",
+                "designation": "Owner",
+                "text": "Mikey consistently delivers exceptional work and is highly proficient in React.js. I confidently recommend him as a skilled React.js designer, invaluable to any team."
             }
         ]
     },
@@ -558,6 +510,6 @@
         "formTitle": "Just say Hello",
         "title": "Contact Info",
         "subTitle": "Visite my social profile and get connected",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+        "text": "Right now the contact form here doesn't so feel free to contact me from other social links. Thank You!"
     }
 }

@@ -14,7 +14,7 @@ const SingleReview = ({ element }: { element: BlogInformationsData }) => {
                 </div>
             </div>
             <div className="st-testimonial-info">
-                <div className="st-testimonial-img">
+                <div className="st-testimonial-img rounded-full overflow-hidden">
                     <Image src={imgLink} alt="client" height={90} width={90} />
                 </div>
                 <div className="st-testimonial-meta">

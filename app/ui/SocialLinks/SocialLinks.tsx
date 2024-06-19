@@ -16,6 +16,7 @@ const SocialLinks = ({ data }: any) => {
                 data.map((item: any, index: number) => (
                     <Link
                         href={item.link}
+                        target="_blank"
                         className={clsx(
                             '',
                             {
@@ -29,7 +30,7 @@ const SocialLinks = ({ data }: any) => {
                         key={index}
                     >
                         <span className="st-social-icon">
-                            <Icon icon={`fa6-brands:${item.icon}`} />
+                            <Icon icon={`${item.icon}`} />
                         </span>
                         <span className="st-icon-name">{item.title}</span>
                     </Link>
