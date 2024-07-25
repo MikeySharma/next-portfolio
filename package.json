@@ -13,7 +13,9 @@
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.20",
     "@react-spring/web": "^9.7.3",
+    "axios": "^1.7.2",
     "clsx": "^2.1.1",
+    "formik": "^2.4.6",
     "fs": "^0.0.1-security",
     "gsap": "^3.12.5",
     "html-react-parser": "^5.1.10",
@@ -26,7 +28,9 @@
     "react-slick": "^0.30.2",
     "sass": "^1.77.5",
     "slick-carousel": "^1.8.1",
-    "stream": "^0.0.2"
+    "stream": "^0.0.2",
+    "yup": "^1.4.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@iconify/react": "^5.0.1",
